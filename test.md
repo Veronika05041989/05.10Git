@@ -5,3 +5,8 @@ git branch - показать все ветки
 git checkout -b name - создание и переход на след. ветку.
 git checkout -b name - создание и переход на след. ветку.
 git checkout -b name - создание и переход на след. ветку.
+git checkout -b name - создание и переход на след. ветку
+123
+git checkout -b name - создание и переход на след. ветку
+123
+git checkout -b name - создание и переход на след. ветку
